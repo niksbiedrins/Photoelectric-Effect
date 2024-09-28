@@ -17,7 +17,7 @@ A simple project that calculates whether photoemission occurs based on photon en
 ### Derived Energy of Photon
 
 <br>
-![Photon Energy Equation](./images/EHVL.png)
+![Maximum Kinetic Energy Equation](./images/EHVL.png)
 
 **Where:**  
 - **\(E\)** = Energy of radiation in Joules (J)  

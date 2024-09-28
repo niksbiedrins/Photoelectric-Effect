@@ -3,5 +3,5 @@
 # Photoelectric-Effect
 A simple project that calculates whether photoemission occurs based on photon energy and work function, and visualizes the results with a graph. The program determines the likelihood of photoemission.
 
-To calculate the energy of photon, I used the following equation:
-$`E = hf`$
+To calculate the energy of photon, I used the following equation: <br>
+**$`E = hf`$**

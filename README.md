@@ -1,3 +1,7 @@
+.MathJax {
+    font-size: 80% !important;
+}
+
 <img width="30%" image-rendering="crisp-edges" src="./images/diagram.png" align="right">
 
 # Photoelectric-Effect

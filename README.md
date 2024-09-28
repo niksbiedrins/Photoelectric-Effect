@@ -1,12 +1,12 @@
-<img width="30%" image-rendering="crisp-edges" src="./images/diagram.png" align="right">
+# Photoelectric Effect
 
-# Photoelectric-Effect
 A simple project that calculates whether photoemission occurs based on photon energy and work function, and visualizes the results with a graph. The program determines the likelihood of photoemission.
 
-To calculate the energy of photon, I used the following equation: <br> <br>
-<img style="padding: 20px;" src="./images/EK.png">
-<br>
-**Where:** <br>
-  E = Energy of radiation in Joules (J) <br>
-  h = Planck's Constant <br> 
-  f = frequency of the radiation ray in Hertz (Hz) <br>
+To calculate the energy of a photon, I used the following equation:
+
+![Photon Energy Equation](./images/EK.png)
+
+**Where:**  
+- **\(E\)** = Energy of radiation in Joules (J)  
+- **\(h\)** = Planck's Constant (approximately \(6.626 \times 10^{-34} \, \text{Js}\))  
+- **\(f\)** = Frequency of the radiation ray in Hertz (Hz)  

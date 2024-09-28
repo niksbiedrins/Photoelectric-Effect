@@ -6,7 +6,7 @@ A simple project that calculates whether photoemission occurs based on photon en
 To calculate the energy of photon, I used the following equation: <br> <br>
 <img style="padding: 20px;" src="./images/EK.png">
 <br>
-**Where:**
-  E = Energy of radiation in Joules (J)
-  h = Planck's Constant e.g $6.63..*10^-34$
-  f = frequency of the radiation ray in Hertz (Hz)
+**Where:** <br>
+  E = Energy of radiation in Joules (J) <br>
+  h = Planck's Constant <br> 
+  f = frequency of the radiation ray in Hertz (Hz) <br>

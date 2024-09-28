@@ -12,4 +12,23 @@ To calculate the energy of a photon, I used the following equation:
 **Where:**  
 - **\(E\)** = Energy of radiation in Joules (J)  
 - **\(h\)** = Planck's Constant (approximately \(6.626 \times 10^{-34} \, \text{Js}\))  
-- **\(f\)** = Frequency of the radiation ray in Hertz (Hz)  
+- **\(f\)** = Frequency of the radiation ray in Hertz (Hz)
+
+However, If not frequency is given only wavelength, I derived the equation to:
+
+<br>
+![Photon Energy Equation](./images/EHVL.png)
+
+**Where:**  
+- **\(E\)** = Energy of radiation in Joules (J)  
+- **\(h\)** = Planck's Constant (approximately \(6.626 \times 10^{-34} \, \text{Js}\))
+- **\(v\)** = Velocity of the radiation ray in metres per second (m/s)
+- **\(f\)** = Wavelength of the radiation ray in Metres (m)
+
+![Maximum Kinetic Energy Equation](./images/EHF.png)
+
+**Where:**  
+- **\(Ek\)** = Maximum kinetic energy of emitted electron in Joules (J)  
+- **\(h\)** = Planck's Constant (approximately \(6.626 \times 10^{-34} \, \text{Js}\))
+- **\(f\)** = Frequency of the radiation ray in Hertz (Hz)
+- **\(Φ\)** = Work function of the material in Joules  (J)

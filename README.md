@@ -5,7 +5,7 @@
 
 A simple project that calculates whether photoemission occurs based on photon energy and work function, and visualizes the results with a graph. The program determines the likelihood of photoemission.
 
-To calculate the energy of a photon, I used the following equation:
+### Energy of Photon
 
 ![Photon Energy Equation](./images/EK.png)
 
@@ -14,7 +14,7 @@ To calculate the energy of a photon, I used the following equation:
 - **\(h\)** = Planck's Constant (approximately \(6.626 \times 10^{-34} \, \text{Js}\))  
 - **\(f\)** = Frequency of the radiation ray in Hertz (Hz)
 
-However, If not frequency is given only wavelength, I derived the equation to:
+### Derived Energy of Photon
 
 <br>
 ![Photon Energy Equation](./images/EHVL.png)
@@ -24,6 +24,8 @@ However, If not frequency is given only wavelength, I derived the equation to:
 - **\(h\)** = Planck's Constant (approximately \(6.626 \times 10^{-34} \, \text{Js}\))
 - **\(v\)** = Velocity of the radiation ray in metres per second (m/s)
 - **\(f\)** = Wavelength of the radiation ray in Metres (m)
+
+### Maximum Kinetic Energy of Emiited Electron
 
 ![Maximum Kinetic Energy Equation](./images/EHF.png)
 

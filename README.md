@@ -14,7 +14,7 @@ A simple project that calculates whether photoemission occurs based on photon en
 - **\(h\)** = Planck's Constant (approximately \(6.626 \times 10^{-34} \, \text{Js}\))  
 - **\(f\)** = Frequency of the radiation ray in Hertz (Hz)
 
-### Derived Energy of Photon
+### Derived Energy of Photon Equation
 
 <br>
 <img src="./images/EHVL.png">

@@ -4,4 +4,4 @@
 A simple project that calculates whether photoemission occurs based on photon energy and work function, and visualizes the results with a graph. The program determines the likelihood of photoemission.
 
 To calculate the energy of photon, I used the following equation: <br>
-<img style="padding: 100px" src="./images/EK.png">
+[<img style="padding: 100px" src="./images/EK.png">]
